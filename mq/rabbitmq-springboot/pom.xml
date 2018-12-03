@@ -15,7 +15,6 @@
     <artifactId>rabbitmq-springboot</artifactId>
 
 
-
     <!-- Add typical dependencies for a web application -->
     <dependencies>
         <dependency>

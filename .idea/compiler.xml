@@ -10,6 +10,7 @@
         <module name="rabbitmq-base" />
         <module name="rabbitmq-springboot" />
         <module name="redis-base" />
+        <module name="spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -21,6 +22,7 @@
       <module name="rabbitmq-base" target="1.8" />
       <module name="rabbitmq-springboot" target="1.8" />
       <module name="redis-base" target="1.8" />
+      <module name="spring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
