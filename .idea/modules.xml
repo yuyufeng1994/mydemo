@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydemo.iml" filepath="$PROJECT_DIR$/mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/rabbitmq-base/rabbitmq-base.iml" filepath="$PROJECT_DIR$/mq/rabbitmq-base/rabbitmq-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/rabbitmq-springboot/rabbitmq-springboot.iml" filepath="$PROJECT_DIR$/mq/rabbitmq-springboot/rabbitmq-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/redis-base/redis-base.iml" filepath="$PROJECT_DIR$/cache/redis-base/redis-base.iml" />
+    </modules>
+  </component>
+</project>
