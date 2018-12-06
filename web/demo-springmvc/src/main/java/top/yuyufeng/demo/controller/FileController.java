@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
+
 import javax.servlet.http.HttpServletResponse;
 import java.io.*;
 import java.util.UUID;
@@ -80,7 +81,7 @@ public class FileController {
      * @return
      */
     @RequestMapping(value = "/stream/{fileName}/{ext}", method = RequestMethod.GET)
-    public String stream(HttpServletResponse response, @PathVariable("fileName") String fileName, @PathVariable("ext") String ext) {
+    public void stream(HttpServletResponse response, @PathVariable("fileName") String fileName, @PathVariable("ext") String ext) {
         try {
             InputStream inputStream = new FileInputStream("g://test/" + fileName + "." + ext);
             OutputStream os = response.getOutputStream();
@@ -93,9 +94,10 @@ public class FileController {
             os.close();
             inputStream.close();
         } catch (FileNotFoundException e) {
+            e.printStackTrace();
         } catch (IOException e) {
+            e.printStackTrace();
         }
-        return null;
     }
 
 }
