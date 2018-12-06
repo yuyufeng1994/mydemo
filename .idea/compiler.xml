@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo-jspServlet" />
+        <module name="demo-springboot" />
         <module name="demo-springmvc" />
+        <module name="framework" />
         <module name="java" />
         <module name="jdbc-base" />
         <module name="rabbitmq-base" />
@@ -20,7 +22,9 @@
     <bytecodeTargetLevel target="1.8">
       <module name="cache" target="1.8" />
       <module name="demo-jspServlet" target="1.8" />
+      <module name="demo-springboot" target="1.8" />
       <module name="demo-springmvc" target="1.8" />
+      <module name="framework" target="1.8" />
       <module name="java" target="1.8" />
       <module name="jdbc" target="1.8" />
       <module name="jdbc-base" target="1.8" />
@@ -36,6 +40,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-springboot" options="-parameters" />
       <module name="rabbitmq-springboot" options="-parameters" />
     </option>
   </component>

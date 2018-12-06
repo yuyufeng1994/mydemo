@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" filepath="$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" filepath="$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" filepath="$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" />
