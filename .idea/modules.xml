@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/mybatis-springboot/mybatis-springboot.iml" filepath="$PROJECT_DIR$/jdbc/mybatis-springboot/mybatis-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydemo.iml" filepath="$PROJECT_DIR$/mydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/rabbitmq-base/rabbitmq-base.iml" filepath="$PROJECT_DIR$/mq/rabbitmq-base/rabbitmq-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/rabbitmq-spring/rabbitmq-spring.iml" filepath="$PROJECT_DIR$/mq/rabbitmq-spring/rabbitmq-spring.iml" />

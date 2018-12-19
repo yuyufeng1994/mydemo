@@ -12,6 +12,7 @@
         <module name="framework" />
         <module name="java" />
         <module name="jdbc-base" />
+        <module name="mybatis-springboot" />
         <module name="rabbitmq-base" />
         <module name="rabbitmq-spring" />
         <module name="rabbitmq-springboot" />
@@ -29,6 +30,7 @@
       <module name="jdbc" target="1.8" />
       <module name="jdbc-base" target="1.8" />
       <module name="mq" target="1.8" />
+      <module name="mybatis-springboot" target="1.8" />
       <module name="mydemo" target="1.8" />
       <module name="rabbitmq-base" target="1.8" />
       <module name="rabbitmq-spring" target="1.8" />
@@ -41,6 +43,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-springboot" options="-parameters" />
+      <module name="mybatis-springboot" options="-parameters" />
       <module name="rabbitmq-springboot" options="-parameters" />
     </option>
   </component>
