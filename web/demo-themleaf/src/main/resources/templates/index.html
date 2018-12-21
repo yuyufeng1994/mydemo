@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+      layout:decorator="include/layout">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<div layout:fragment="content">
+    <h1>这是首页内容</h1>
+    <p>时间：<b th:text="${myDate}"></b></p>
+    <p><b  th:text="${'时间：'+#dates.format(myDate, 'yyyy年MM月dd日 HH:mm:ss')}"></b></p>
+</div>
+</body>
+</html>

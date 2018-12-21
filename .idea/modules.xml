@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" filepath="$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" filepath="$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" filepath="$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/demo-themleaf/demo-themleaf.iml" filepath="$PROJECT_DIR$/web/demo-themleaf/demo-themleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/mq/rabbitmq-springboot/rabbitmq-springboot.iml" filepath="$PROJECT_DIR$/mq/rabbitmq-springboot/rabbitmq-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/redis-base/redis-base.iml" filepath="$PROJECT_DIR$/cache/redis-base/redis-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/springboot/springboot.iml" filepath="$PROJECT_DIR$/framework/springboot/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
