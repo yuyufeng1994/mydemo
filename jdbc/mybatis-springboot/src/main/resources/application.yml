@@ -5,9 +5,9 @@ spring:
   application:
     name: demo-mybatis-springboot
   datasource:
-    url: jdbc:mysql://106.14.13.212:3306/mydemo
+    url: jdbc:mysql://127.0.0.1:3306/mydemo
     username: root
-    password: yyf12345
+    password: 12345
     driverClassName: com.mysql.jdbc.Driver
     # 使用druid数据源
     type: com.alibaba.druid.pool.DruidDataSource
