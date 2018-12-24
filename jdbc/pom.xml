@@ -14,6 +14,7 @@
     <modules>
         <module>jdbc-base</module>
         <module>mybatis-springboot</module>
+        <module>jdbc-springboot</module>
     </modules>
 
 

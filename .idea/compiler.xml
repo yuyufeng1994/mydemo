@@ -12,6 +12,7 @@
         <module name="demo-themleaf" />
         <module name="java" />
         <module name="jdbc-base" />
+        <module name="jdbc-springboot" />
         <module name="mybatis-springboot" />
         <module name="rabbitmq-base" />
         <module name="rabbitmq-spring" />
@@ -31,6 +32,7 @@
       <module name="java" target="1.8" />
       <module name="jdbc" target="1.8" />
       <module name="jdbc-base" target="1.8" />
+      <module name="jdbc-springboot" target="1.8" />
       <module name="mq" target="1.8" />
       <module name="mybatis-springboot" target="1.8" />
       <module name="mydemo" target="1.8" />
@@ -47,6 +49,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo-springboot" options="-parameters" />
       <module name="demo-themleaf" options="-parameters" />
+      <module name="jdbc-springboot" options="-parameters" />
       <module name="mybatis-springboot" options="-parameters" />
       <module name="rabbitmq-springboot" options="-parameters" />
     </option>
