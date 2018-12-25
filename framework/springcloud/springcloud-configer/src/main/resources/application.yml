@@ -1,0 +1,14 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: hapicker-cloud-configer
+  cloud:
+    config:  # git管理配置
+      server:
+        git:
+          uri: https://gitee.com/mryyf/hapicker-cloud-configer  #配置git仓库位置
+          search-paths: conf
+          label: master
+          username: 416530244@qq.com
+          password: yyf1238523
