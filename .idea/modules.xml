@@ -23,7 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/framework/springboot/springboot.iml" filepath="$PROJECT_DIR$/framework/springboot/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-configer/springcloud-configer.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-configer/springcloud-configer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-configer-conf/springcloud-configer-conf.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-configer-conf/springcloud-configer-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-web/springcloud-web.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-web/springcloud-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>

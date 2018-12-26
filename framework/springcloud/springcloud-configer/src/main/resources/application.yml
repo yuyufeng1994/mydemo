@@ -2,13 +2,13 @@ server:
   port: 8888
 spring:
   application:
-    name: hapicker-cloud-configer
+    name: springcloud-configer
   cloud:
     config:  # git管理配置
       server:
         git:
-          uri: https://gitee.com/mryyf/hapicker-cloud-configer  #配置git仓库位置
-          search-paths: conf
-          label: master
-          username:
-          password:
+          uri: https://github.com/yuyufeng1994/mydemo  #配置git仓库位置
+          search-paths: framework/springcloud/springcloud-configer-conf/conf   # git仓库地址下的相对地址，可以配置多个，用,分割。
+          label: master  #分支
+          username:  #用户名
+          password: #密码

@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>springcloud-configer</module>
-        <module>springcloud-configer-conf</module>
+        <module>springcloud-web</module>
     </modules>
 
 
