@@ -21,6 +21,7 @@
         <module name="spring" />
         <module name="springboot" />
         <module name="springcloud-configer" />
+        <module name="springcloud-configer-conf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -45,6 +46,7 @@
       <module name="springboot" target="1.8" />
       <module name="springcloud" target="1.8" />
       <module name="springcloud-configer" target="1.8" />
+      <module name="springcloud-configer-conf" target="1.8" />
       <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
