@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8887
 spring:
   application:
     name: springcloud-configer
@@ -12,3 +12,4 @@ spring:
           label: master  #分支
           username:  #用户名
           password: #密码
+

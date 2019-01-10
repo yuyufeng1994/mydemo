@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-lib/common-lib.iml" filepath="$PROJECT_DIR$/common-lib/common-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" filepath="$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" filepath="$PROJECT_DIR$/web/demo-springboot/demo-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" filepath="$PROJECT_DIR$/web/demo-springmvc/demo-springmvc.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-base/jdbc-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-springboot/jdbc-springboot.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-springboot/jdbc-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-lib/logger/logger.iml" filepath="$PROJECT_DIR$/common-lib/logger/logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/mybatis-springboot/mybatis-springboot.iml" filepath="$PROJECT_DIR$/jdbc/mybatis-springboot/mybatis-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydemo.iml" filepath="$PROJECT_DIR$/mydemo.iml" />
@@ -23,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/framework/springboot/springboot.iml" filepath="$PROJECT_DIR$/framework/springboot/springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-configer/springcloud-configer.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-configer/springcloud-configer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-eureka/springcloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/springcloud/springcloud-web/springcloud-web.iml" filepath="$PROJECT_DIR$/framework/springcloud/springcloud-web/springcloud-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>

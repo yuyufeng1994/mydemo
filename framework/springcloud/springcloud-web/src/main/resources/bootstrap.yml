@@ -1,0 +1,21 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: springcloud-web
+  cloud:
+    config:  # git管理配置
+      uri: http://127.0.0.1:8887/
+      label: master
+      profile: dev
+      name: base,${spring.application.name} #表示使用的配置文件为 base.yml、springcloud-web.yml
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
+  endpoint:
+    health:
+      show-details: always
+

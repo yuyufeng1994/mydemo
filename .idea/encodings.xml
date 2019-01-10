@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/framework/springcloud/springcloud-configer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/framework/springcloud/springcloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/framework/springcloud/springcloud-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdbc/jdbc-springboot" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdbc/mybatis-springboot" charset="UTF-8" />
