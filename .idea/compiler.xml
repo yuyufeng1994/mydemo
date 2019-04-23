@@ -15,6 +15,7 @@
         <module name="jdbc-springboot" />
         <module name="logger" />
         <module name="mybatis-springboot" />
+        <module name="poi" />
         <module name="rabbitmq-base" />
         <module name="rabbitmq-spring" />
         <module name="rabbitmq-springboot" />
@@ -42,6 +43,7 @@
       <module name="mq" target="1.8" />
       <module name="mybatis-springboot" target="1.8" />
       <module name="mydemo" target="1.8" />
+      <module name="poi" target="1.8" />
       <module name="rabbitmq-base" target="1.8" />
       <module name="rabbitmq-spring" target="1.8" />
       <module name="rabbitmq-springboot" target="1.8" />
