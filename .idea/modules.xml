@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mq/activemq/activemq.iml" filepath="$PROJECT_DIR$/mq/activemq/activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/activemq-spring/activemq-spring.iml" filepath="$PROJECT_DIR$/mq/activemq-spring/activemq-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-lib/common-lib.iml" filepath="$PROJECT_DIR$/common-lib/common-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" filepath="$PROJECT_DIR$/web/demo-jspServlet/demo-jspServlet.iml" />

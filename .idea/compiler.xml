@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jdbc-springboot" />
         <module name="demo-springmvc" />
+        <module name="activemq-spring" />
         <module name="poi" />
         <module name="springcloud-web" />
         <module name="redis-base" />
@@ -24,12 +25,15 @@
         <module name="rabbitmq-springboot" />
         <module name="http-client" />
         <module name="rabbitmq-base" />
+        <module name="activemq" />
         <module name="java" />
         <module name="demo-springboot" />
         <module name="mybatis-springboot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="activemq" target="1.8" />
+      <module name="activemq-spring" target="1.8" />
       <module name="cache" target="1.8" />
       <module name="common-lib" target="1.8" />
       <module name="demo-jspServlet" target="1.8" />
