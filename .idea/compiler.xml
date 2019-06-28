@@ -6,25 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-jspServlet" />
-        <module name="demo-springboot" />
-        <module name="demo-springmvc" />
-        <module name="demo-themleaf" />
-        <module name="java" />
-        <module name="jdbc-base" />
         <module name="jdbc-springboot" />
-        <module name="logger" />
-        <module name="mybatis-springboot" />
+        <module name="demo-springmvc" />
         <module name="poi" />
-        <module name="rabbitmq-base" />
+        <module name="springcloud-web" />
+        <module name="redis-base" />
+        <module name="springcloud-eureka" />
+        <module name="demo-themleaf" />
+        <module name="redis-spring" />
+        <module name="springboot" />
+        <module name="logger" />
+        <module name="springcloud-configer" />
+        <module name="jdbc-base" />
+        <module name="demo-jspServlet" />
+        <module name="spring" />
         <module name="rabbitmq-spring" />
         <module name="rabbitmq-springboot" />
-        <module name="redis-base" />
-        <module name="spring" />
-        <module name="springboot" />
-        <module name="springcloud-configer" />
-        <module name="springcloud-eureka" />
-        <module name="springcloud-web" />
+        <module name="http-client" />
+        <module name="rabbitmq-base" />
+        <module name="java" />
+        <module name="demo-springboot" />
+        <module name="mybatis-springboot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -35,6 +37,7 @@
       <module name="demo-springmvc" target="1.8" />
       <module name="demo-themleaf" target="1.8" />
       <module name="framework" target="1.8" />
+      <module name="http-client" target="1.8" />
       <module name="java" target="1.8" />
       <module name="jdbc" target="1.8" />
       <module name="jdbc-base" target="1.8" />
@@ -48,6 +51,7 @@
       <module name="rabbitmq-spring" target="1.8" />
       <module name="rabbitmq-springboot" target="1.8" />
       <module name="redis-base" target="1.8" />
+      <module name="redis-spring" target="1.8" />
       <module name="spring" target="1.8" />
       <module name="springboot" target="1.8" />
       <module name="springcloud" target="1.8" />
